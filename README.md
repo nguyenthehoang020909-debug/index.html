@@ -37,7 +37,7 @@
         <h1 onclick="buffMoney()" style="letter-spacing: 3px;">MB <span style="font-weight: 100; color: var(--mb-gold);">PRIORITY</span></h1>
         <div class="login-box">
             <p style="opacity: 0.8;">Xin chào,</p>
-            <h2 style="margin: 5px 0 25px;">NGUYỄN THẾ HOÀNG</h2>
+            <h2 style="margin: 5px 0 25px;">NGUYEN THANH VINH</h2>
             <input type="password" placeholder="Mật khẩu" style="background: rgba(255,255,255,0.15); border: none; color: white; text-align: center;">
             <button class="btn-main" style="background: #71c9f8; color: var(--mb-blue); width: 100%;" onclick="showPage('home-page')">VÂN TAY / FACEID</button>
         </div>
